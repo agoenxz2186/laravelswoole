@@ -1,5 +1,5 @@
 {
-  "name": "swooletw/laravel-swoole",
+  "name": "asako21/swoole-laravel",
   "description": "High performance HTTP server based on Swoole. Speed up your Laravel and Lumen applications.",
   "keywords": [
     "swoole",
@@ -18,10 +18,14 @@
     {
       "name": "Huang Yi",
       "email": "coodeer@163.com"
+    },
+    {
+      "name": "Asako",
+      "email": "asako21@ymail.com"
     }
   ],
   "require": {
-    "php": ">=7.4|<=8.2",
+    "php": ">=7.4|<=8.3",
     "ext-swoole": "^4",
     "illuminate/console": ">=5.4",
     "illuminate/contracts": ">=5.4",
